@@ -1,0 +1,9 @@
+com.rental.app.dao
+com.rental.app.db
+com.rental.app.handler
+com.rental.app.model
+com.rental.app.model.request
+com.rental.app.model.response
+com.rental.app.service
+com.rental.app.task
+com.rental.app.util
