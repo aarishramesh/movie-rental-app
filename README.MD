@@ -7,9 +7,9 @@ Movie Rental Backend API Application
 - PostGres backend
 
 - All assumptions are taken into consideration in the design and development aspects 
-	like customer can rent have many movies rented
+	like customer can have many movies rented
 
-- It has designed on the lines of NetFlix
+- It has been designed on the lines of NetFlix
 
 - Findbugs check has been integrated to ensure there are no preventable bugs in the code
 
